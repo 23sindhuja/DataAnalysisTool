@@ -39,15 +39,8 @@ python main.py
 
 4️⃣ Run Tkinter Version with chart representation
 
-For this follow DataAnalysisTool_Charts.zip 
-
-Update data_analyzer.py
-
-Update ui/tkinter_ui.py
-
-Then update upload_file() function in tkinter_ui.py 
+For this follow DataAnalysisTool_Charts.zip  
 
 5️⃣ Run PyQt5 Version
-python ui/pyqt_ui.py
 
-
+For this follow DataAnalysisTool_pyqt.zip
